@@ -1,3 +1,3 @@
 <?php
-echo "<h1>rifan ganteng </h1>";
+echo "<h1>rifan jelek </h1>";
 ?>
